@@ -1,2 +1,5 @@
-# projeto_de_arquivos
-Exercicios para a aula PRA0001
+# Exercícios em C
+
+Exercicios da aula de Projeto de Arquivos.
+
+UDESC
